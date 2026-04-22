@@ -1,0 +1,5 @@
+C:/texteditor/texteditor/build/Desktop-Debug/CMakeFiles/CodeEditorWidgets.dir
+C:/texteditor/texteditor/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+C:/texteditor/texteditor/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+C:/texteditor/texteditor/build/Desktop-Debug/CMakeFiles/CodeEditorWidgets_autogen_timestamp_deps.dir
+C:/texteditor/texteditor/build/Desktop-Debug/CMakeFiles/CodeEditorWidgets_autogen.dir
