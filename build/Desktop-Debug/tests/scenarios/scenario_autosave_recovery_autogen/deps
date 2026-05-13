@@ -1,0 +1,4 @@
+scenario_autosave_recovery_autogen/timestamp: \
+	C:/texteditor/texteditor/tests/scenarios/CMakeLists.txt \
+	C:/texteditor/texteditor/tests/scenarios/scenario_autosave_recovery.cpp \
+	C:/Program\ Files/CMake/bin/cmake.exe

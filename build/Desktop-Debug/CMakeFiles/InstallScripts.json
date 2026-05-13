@@ -1,7 +1,12 @@
 {
 	"InstallScripts" : 
 	[
-		"C:/texteditor/texteditor/build/Desktop-Debug/cmake_install.cmake"
+		"C:/texteditor/texteditor/build/Desktop-Debug/cmake_install.cmake",
+		"C:/texteditor/texteditor/build/Desktop-Debug/tests/cmake_install.cmake",
+		"C:/texteditor/texteditor/build/Desktop-Debug/_deps/googletest-build/cmake_install.cmake",
+		"C:/texteditor/texteditor/build/Desktop-Debug/_deps/googletest-build/googlemock/cmake_install.cmake",
+		"C:/texteditor/texteditor/build/Desktop-Debug/_deps/googletest-build/googletest/cmake_install.cmake",
+		"C:/texteditor/texteditor/build/Desktop-Debug/tests/scenarios/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

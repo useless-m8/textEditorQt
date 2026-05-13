@@ -1,0 +1,4 @@
+scenario_file_lifecycle_autogen/timestamp: \
+	C:/texteditor/texteditor/tests/scenarios/CMakeLists.txt \
+	C:/texteditor/texteditor/tests/scenarios/scenario_file_lifecycle.cpp \
+	C:/Program\ Files/CMake/bin/cmake.exe

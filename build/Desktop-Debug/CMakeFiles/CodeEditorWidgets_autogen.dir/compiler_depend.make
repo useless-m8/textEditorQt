@@ -19,84 +19,23 @@ CodeEditorWidgets_autogen\timestamp: "C:\Program Files (x86)\Windows Kits\10\inc
   "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stdlib.h" \
   "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\string.h" \
   "C:\Program Files\CMake\bin\cmake.exe" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeCXXCompiler.cmake.in" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeCXXCompilerABI.cpp" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeCXXInformation.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeCheckCompilerFlagCommonPatterns.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeCommonLanguageInclude.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeCompilerIdDetection.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeDetermineCXXCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeDetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeDetermineCompilerABI.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeDetermineCompilerId.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeDetermineCompilerSupport.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeDetermineRCCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeDetermineSystem.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeFindBinUtils.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeFindDependencyMacro.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeGenericSystem.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeInitializeConfigs.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeJOMFindMake.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeLanguageInformation.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeParseImplicitIncludeInfo.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeParseImplicitLinkInfo.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeParseLibraryArchitecture.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeRCCompiler.cmake.in" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeRCInformation.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeSystem.cmake.in" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeSystemSpecificInformation.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeSystemSpecificInitialize.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeTestCXXCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeTestCompilerCommon.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeTestRCCompiler.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\CheckCXXCompilerFlag.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\CheckCXXSourceCompiles.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\CheckIncludeFileCXX.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\CheckLibraryExists.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\ADSP-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\ARMCC-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\ARMClang-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\AppleClang-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\Borland-DetermineCompiler.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\CMakeCommonCompilerMacros.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\Clang-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\Clang-DetermineCompilerInternal.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\Compaq-CXX-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\Cray-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\CrayClang-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\Diab-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\Embarcadero-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\Fujitsu-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\FujitsuClang-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\GHS-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\GNU-CXX-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\HP-CXX-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\IAR-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\IBMCPP-CXX-DetermineVersionInternal.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\IBMClang-CXX-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\Intel-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\IntelLLVM-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\LCC-CXX-DetermineCompiler.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\MSVC-CXX.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\MSVC-DetermineCompiler.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\MSVC.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\NVHPC-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\NVIDIA-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\OpenWatcom-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\OrangeC-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\PGI-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\PathScale-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\Renesas-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\SCO-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\SunPro-CXX-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\TI-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\TIClang-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\Tasking-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\VisualAge-CXX-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\Watcom-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\XL-CXX-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\XLClang-CXX-DetermineCompiler.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\zOS-CXX-DetermineCompiler.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\FindPackageHandleStandardArgs.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\FindPackageMessage.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\FindThreads.cmake" \
@@ -104,17 +43,13 @@ CodeEditorWidgets_autogen\timestamp: "C:\Program Files (x86)\Windows Kits\10\inc
   "C:\Program Files\CMake\share\cmake-4.3\Modules\GNUInstallDirs.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\Internal\CMakeCXXLinkerInformation.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\Internal\CMakeCommonLinkerInformation.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Internal\CMakeDetermineLinkerId.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Internal\CMakeInspectCXXLinker.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\Internal\CheckCompilerFlag.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\Internal\CheckFlagCommonConfig.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\Internal\CheckSourceCompiles.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Internal\FeatureTesting.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\Linker\MSVC-CXX.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\Linker\MSVC.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\Platform\Linker\Windows-MSVC-CXX.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\Platform\Linker\Windows-MSVC.cmake" \
-  "C:\Program Files\CMake\share\cmake-4.3\Modules\Platform\Windows-Determine-CXX.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\Platform\Windows-Initialize.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\Platform\Windows-MSVC-CXX.cmake" \
   "C:\Program Files\CMake\share\cmake-4.3\Modules\Platform\Windows-MSVC.cmake" \
@@ -578,89 +513,91 @@ CodeEditorWidgets_autogen\timestamp: "C:\Program Files (x86)\Windows Kits\10\inc
   C:\texteditor\texteditor\main.cpp
 
 
+"C:\Program Files\CMake\share\cmake-4.3\Modules\Platform\Linker\Windows-MSVC.cmake":
+
 "C:\Program Files\CMake\share\cmake-4.3\Modules\CheckIncludeFileCXX.cmake":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\errno.h":
 
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\assert.h":
+C:\Qt\6.10.3\msvc2022_64\include\QtGui\qinputmethod.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qdeadlinetimer.h:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtGui\qinputmethod.h:
-
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qatomic.h:
 
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\CMakeCommonCompilerMacros.cmake":
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\assert.h":
+
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QMinimalIntegrationPluginTargets-relwithdebinfo.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qstringalgorithms.h:
 
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QMinimalIntegrationPluginTargets-relwithdebinfo.cmake:
+"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\CMakeCommonCompilerMacros.cmake":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stdlib.h":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_memcpy_s.h":
 
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\IBMClang-CXX-DetermineCompiler.cmake":
-
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt.h":
+
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicSbomCommonGenerationHelpers.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qminmax.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\q20utility.h:
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\atomic":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_malloc.h":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_memory.h":
 
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cstdint":
+
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_stdio_config.h":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\Diab-DetermineCompiler.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6EntryPointPrivate\Qt6EntryPointPrivateConfig.cmake:
-
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qmap.h:
-
-C:\Qt\6.10.3\msvc2022_64\include\QtGui\qpolygon.h:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6GuiTools\Qt6GuiToolsConfigVersionImpl.cmake:
 
-"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\ctype.h":
-
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qoverload.h:
+
+"C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\ctype.h":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_search.h":
 
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\XL-CXX-DetermineCompiler.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qcomparehelpers.h:
-
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qmalloc.h:
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\concurrencysal.h":
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QWindowsIntegrationPluginTargets-debug.cmake:
 
-"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeDetermineCompilerSupport.cmake":
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qmalloc.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qcomparehelpers.h:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wctype.h":
 
+"C:\Program Files\CMake\share\cmake-4.3\Modules\Platform\Windows.cmake":
+
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstdio.h":
 
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6GuiTools\Qt6GuiToolsVersionlessTargets.cmake:
+
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstdlib.h":
-
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6GuiConfig.cmake:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeRCCompiler.cmake.in":
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\corecrt_wstring.h":
 
 "C:\Program Files\CMake\share\cmake-4.3\Modules\Internal\CMakeCommonLinkerInformation.cmake":
 
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\Cray-DetermineCompiler.cmake":
-
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\stddef.h":
 
-"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeInitializeConfigs.cmake":
+C:\Qt\6.10.3\msvc2022_64\include\QtGui\qscreen_platform.h:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtGui\QTransform:
+"C:\Program Files\CMake\share\cmake-4.3\Modules\FindPackageMessage.cmake":
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QSvgIconPluginAdditionalTargetInfo.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Core\Qt6CoreConfigVersionImpl.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtGui\QTransform:
+
+"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeInitializeConfigs.cmake":
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qbindingstorage.h:
 
@@ -668,395 +605,169 @@ C:\Qt\6.10.3\msvc2022_64\include\QtCore\qbindingstorage.h:
 
 "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt\string.h":
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\numeric":
+C:\texteditor\texteditor\SettingsManager.h:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6CoreTools\Qt6CoreToolsAdditionalTargetInfo.cmake:
 
-C:\texteditor\texteditor\SettingsManager.h:
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\numeric":
 
 "C:\Program Files\CMake\bin\cmake.exe":
 
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\Borland-DetermineCompiler.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeCXXCompiler.cmake.in":
-
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Core\Qt6CoreAdditionalTargetInfo.cmake:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\Clang-DetermineCompiler.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6GuiVersionlessAliasTargets.cmake:
-
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qstringmatcher.h:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeCXXCompilerABI.cpp":
-
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicSbomGenerationHelpers.cmake:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeCXXInformation.cmake":
-
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdarg.h":
 
-"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeDetermineCompilerId.cmake":
+"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeCXXInformation.cmake":
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QICOPluginTargets-debug.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeCheckCompilerFlagCommonPatterns.cmake":
 
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Widgets\Qt6WidgetsPlugins.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtcoreexports.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qobject_impl.h:
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cassert":
+
 "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeCommonLanguageInclude.cmake":
+
+"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeFindDependencyMacro.cmake":
+
+C:\texteditor\texteditor\SearchManager.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtWidgets\qtextedit.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qscopedpointer.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qcontainertools_impl.h:
+
+"C:\Program Files\CMake\share\cmake-4.3\Modules\Platform\Windows-Initialize.cmake":
+
+"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeGenericSystem.cmake":
+
+C:\Qt\6.10.3\msvc2022_64\include\QtGui\qwindowdefs_win.h:
+
+"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeLanguageInformation.cmake":
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cstddef":
 
 C:\Qt\6.10.3\msvc2022_64\include\QtWidgets\qabstractscrollarea.h:
 
 "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeRCInformation.cmake":
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cstddef":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeCompilerIdDetection.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\CheckCXXCompilerFlag.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeDetermineCXXCompiler.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeDetermineCompiler.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicSbomDocumentNamespaceHelpers.cmake:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeTestCXXCompiler.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\include\QtGui\qpixmap.h:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeFindDependencyMacro.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeDetermineCompilerABI.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\include\QtGui\qpalette.h:
-
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QICOPluginTargets-relwithdebinfo.cmake:
-
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qlist.h:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeDetermineRCCompiler.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeDetermineSystem.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\include\QtWidgets\qsizepolicy.h:
-
-C:\Qt\6.10.3\msvc2022_64\include\QtGui\qeventpoint.h:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\CrayClang-DetermineCompiler.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeFindBinUtils.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\Fujitsu-DetermineCompiler.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\include\QtGui\qpaintdevice.h:
-
-C:\texteditor\texteditor\TextEditor.cpp:
-
-C:\Qt\6.10.3\msvc2022_64\include\QtGui\qfontinfo.h:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\Compaq-CXX-DetermineCompiler.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeGenericSystem.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeJOMFindMake.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6CoreTools\Qt6CoreToolsTargets-debug.cmake:
-
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qrefcount.h:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeLanguageInformation.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\include\QtGui\qwindowdefs_win.h:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeSystem.cmake.in":
-
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\list":
-
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qatomic_cxx11.h:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeParseImplicitIncludeInfo.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\include\QtWidgets\qplaintextedit.h:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeParseImplicitLinkInfo.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qobjectdefs_impl.h:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeParseLibraryArchitecture.cmake":
-
 "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeSystemSpecificInformation.cmake":
 
 "C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeSystemSpecificInitialize.cmake":
 
-"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeTestCompilerCommon.cmake":
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicSbomLicenseHelpers.cmake:
 
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\Qt6VersionlessAliasTargets.cmake:
+"C:\Program Files\CMake\share\cmake-4.3\Modules\Internal\CheckCompilerFlag.cmake":
 
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\ARMClang-DetermineCompiler.cmake":
+"C:\Program Files\CMake\share\cmake-4.3\Modules\CheckCXXCompilerFlag.cmake":
 
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qbytearraylist.h:
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm":
 
-"C:\Program Files\CMake\share\cmake-4.3\Modules\CMakeTestRCCompiler.cmake":
+C:\Qt\6.10.3\msvc2022_64\include\QtWidgets\qtwidgetsglobal.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtGui\qtguiglobal.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtGui\qrgba64.h:
+
+"C:\Program Files\CMake\share\cmake-4.3\Modules\Internal\CheckSourceCompiles.cmake":
 
 "C:\Program Files\CMake\share\cmake-4.3\Modules\CheckCXXSourceCompiles.cmake":
 
 "C:\Program Files\CMake\share\cmake-4.3\Modules\CheckLibraryExists.cmake":
 
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\ADSP-DetermineCompiler.cmake":
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qspan.h:
 
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicSbomAttributionHelpers.cmake:
-
-C:\texteditor\texteditor\CMakeLists.txt:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\ARMCC-DetermineCompiler.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\GNU-CXX-DetermineCompiler.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\AppleClang-DetermineCompiler.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\Clang-DetermineCompilerInternal.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\Embarcadero-DetermineCompiler.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtFeatureCommon.cmake:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\FujitsuClang-DetermineCompiler.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtdeprecationmarkers.h:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\GHS-DetermineCompiler.cmake":
-
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\HP-CXX-DetermineCompiler.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\IAR-DetermineCompiler.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6EntryPointPrivate\Qt6EntryPointPrivateConfigVersionImpl.cmake:
-
-C:\Qt\6.10.3\msvc2022_64\include\QtGui\qfont.h:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\IBMCPP-CXX-DetermineVersionInternal.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\Intel-DetermineCompiler.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\q23type_traits.h:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\IntelLLVM-DetermineCompiler.cmake":
-
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map":
-
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicSbomGenerationCycloneDXHelpers.cmake:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\LCC-CXX-DetermineCompiler.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qpair.h:
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\array":
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Widgets\Qt6WidgetsAdditionalTargetInfo.cmake:
 
 "C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\MSVC-CXX.cmake":
 
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\MSVC-DetermineCompiler.cmake":
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QGifPluginTargets-relwithdebinfo.cmake:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtGui\qguiapplication.h:
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\climits":
 
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\MSVC.cmake":
+"C:\Program Files\CMake\share\cmake-4.3\Modules\FindThreads.cmake":
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6EntryPointPrivate\Qt6EntryPointPrivateAdditionalTargetInfo.cmake:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qttypetraits.h:
-
-.qtcreator\cmake-helper\maintenance_tool_provider.cmake:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\NVHPC-DetermineCompiler.cmake":
-
-CMakeFiles\4.3.1\CMakeCXXCompiler.cmake:
-
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qutf8stringview.h:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\NVIDIA-DetermineCompiler.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\OpenWatcom-DetermineCompiler.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\Watcom-DetermineCompiler.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\OrangeC-DetermineCompiler.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\q20utility.h:
-
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicSbomCommonGenerationHelpers.cmake:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\PGI-DetermineCompiler.cmake":
-
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\atomic":
-
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qminmax.h:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\PathScale-DetermineCompiler.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qttranslation.h:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\Renesas-DetermineCompiler.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6CoreTools\Qt6CoreToolsDependencies.cmake:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\SCO-DetermineCompiler.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\SunPro-CXX-DetermineCompiler.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\TI-DetermineCompiler.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QGifPluginTargets-debug.cmake:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\TIClang-DetermineCompiler.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\Tasking-DetermineCompiler.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\VisualAge-CXX-DetermineCompiler.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicAndroidHelpers.cmake:
+"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\MSVC.cmake":
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicSbomExternalReferenceHelpers.cmake:
 
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\XLClang-CXX-DetermineCompiler.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\FindPackageHandleStandardArgs.cmake":
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicAndroidHelpers.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qbytearrayalgorithms.h:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qiterator.h:
+"C:\Program Files\CMake\share\cmake-4.3\Modules\FindPackageHandleStandardArgs.cmake":
 
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Compiler\zOS-CXX-DetermineCompiler.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\include\QtGui\qscreen_platform.h:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\FindPackageMessage.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\FindThreads.cmake":
+"C:\Program Files\CMake\share\cmake-4.3\Modules\Internal\CheckFlagCommonConfig.cmake":
 
 "C:\Program Files\CMake\share\cmake-4.3\Modules\FindVulkan.cmake":
 
 "C:\Program Files\CMake\share\cmake-4.3\Modules\GNUInstallDirs.cmake":
 
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Internal\CMakeCXXLinkerInformation.cmake":
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtypeinfo.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtresource.h:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtypeinfo.h:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Internal\CMakeDetermineLinkerId.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Internal\CMakeInspectCXXLinker.cmake":
-
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cstdint":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Internal\CheckCompilerFlag.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicSbomLicenseHelpers.cmake:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Internal\CheckFlagCommonConfig.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Internal\CheckSourceCompiles.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\include\QtGui\qtguiglobal.h:
-
-C:\Qt\6.10.3\msvc2022_64\include\QtWidgets\qtwidgetsglobal.h:
-
-C:\Qt\6.10.3\msvc2022_64\include\QtGui\qrgba64.h:
-
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qbasictimer.h:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Internal\FeatureTesting.cmake":
+"C:\Program Files\CMake\share\cmake-4.3\Modules\Internal\CMakeCXXLinkerInformation.cmake":
 
 "C:\Program Files\CMake\share\cmake-4.3\Modules\Linker\MSVC-CXX.cmake":
 
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Linker\MSVC.cmake":
-
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\yvals_core.h":
-
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qcontiguouscache.h:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Platform\Linker\Windows-MSVC-CXX.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qshareddata.h:
-
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qfloat16.h:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Platform\Linker\Windows-MSVC.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Platform\Windows-Determine-CXX.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qsystemdetection.h:
-
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\yvals.h":
-
-C:\texteditor\texteditor\SearchManager.h:
-
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qcontainertools_impl.h:
-
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qscopedpointer.h:
-
-C:\Qt\6.10.3\msvc2022_64\include\QtWidgets\qtextedit.h:
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Platform\Windows-Initialize.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Platform\Windows-MSVC-CXX.cmake":
-
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtconfiginclude.h:
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath":
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicToolHelpers.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtGui\qinputdevice.h:
 
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicSbomDepHelpers.cmake:
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtconfiginclude.h:
 
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Platform\Windows-MSVC.cmake":
+"C:\Program Files\CMake\share\cmake-4.3\Modules\Platform\Windows-MSVC-CXX.cmake":
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qcontiguouscache.h:
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\yvals_core.h":
+
+"C:\Program Files\CMake\share\cmake-4.3\Modules\Linker\MSVC.cmake":
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qshareddata.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qfloat16.h:
+
+"C:\Program Files\CMake\share\cmake-4.3\Modules\Platform\Linker\Windows-MSVC-CXX.cmake":
+
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicSbomDepHelpers.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qalgorithms.h:
 
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Platform\Windows.cmake":
-
-"C:\Program Files\CMake\share\cmake-4.3\Modules\Platform\WindowsPaths.cmake":
+"C:\Program Files\CMake\share\cmake-4.3\Modules\Platform\Windows-MSVC.cmake":
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qforeach.h:
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\algorithm":
-
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\array":
-
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qspan.h:
-
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qobject_impl.h:
-
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtcoreexports.h:
-
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Widgets\Qt6WidgetsPlugins.cmake:
-
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cassert":
+"C:\Program Files\CMake\share\cmake-4.3\Modules\Platform\WindowsPaths.cmake":
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicGitHelpers.cmake:
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\chrono":
-
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qdarwinhelpers.h:
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\climits":
-
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QGifPluginTargets-relwithdebinfo.cmake:
-
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\concurrencysal.h":
-
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cstdlib":
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\chrono":
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QICOPluginTargets.cmake:
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cstdlib":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cstring":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\functional":
 
-C:\Qt\6.10.3\msvc2022_64\include\QtGui\qfontmetrics.h:
-
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6WidgetsTools\Qt6WidgetsToolsConfigVersionImpl.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtGui\qfontmetrics.h:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\initializer_list":
 
@@ -1064,21 +775,31 @@ C:\Qt\6.10.3\msvc2022_64\include\QtCore\qbasicatomic.h:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iterator":
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\limits":
-
 C:\Qt\6.10.3\msvc2022_64\include\QtGui\QColor:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtypes.h:
 
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\limits":
+
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\limits.h":
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory":
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qatomic_cxx11.h:
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\list":
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\q23type_traits.h:
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map":
+
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6GuiTools\Qt6GuiToolsTargets.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtGui\QSyntaxHighlighter:
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\new":
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\memory":
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicSbomRelationshipHelpers.cmake:
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\new":
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicSbomFileHelpers.cmake:
 
@@ -1090,17 +811,17 @@ C:\Qt\6.10.3\msvc2022_64\include\QtCore\q20functional.h:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\set":
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdbool.h":
-
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6GuiConfigVersionImpl.cmake:
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdbool.h":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\string_view":
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\tuple":
-
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QGifPluginTargets.cmake:
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\tuple":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\type_traits":
 
@@ -1108,43 +829,49 @@ C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtcore-config.h:
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\unordered_map":
 
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Widgets\Qt6QModernWindowsStylePluginConfig.cmake:
+
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\unordered_set":
 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility":
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vadefs.h":
-
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qshareddata_impl.h:
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\variant":
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vadefs.h":
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vcruntime.h":
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\variant":
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6EntryPointPrivate\Qt6EntryPointPrivateTargets-debug.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtGui\qaction.h:
 
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Widgets\Qt6WidgetsConfigVersionImpl.cmake:
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vcruntime.h":
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vcruntime_string.h":
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Widgets\Qt6WidgetsConfigVersionImpl.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qarraydatapointer.h:
 
-"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector":
-
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qgenericatomic.h:
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vcruntime_string.h":
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6GuiTargets.cmake:
 
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qgenericatomic.h:
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector":
+
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\version":
 
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\QList:
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qsystemdetection.h:
+
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\yvals.h":
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QJpegPluginTargets-relwithdebinfo.cmake:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\QObject:
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\QList:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Core\Qt6CoreVersionlessAliasTargets.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\QObject:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\QRect:
 
@@ -1158,9 +885,9 @@ C:\Qt\6.10.3\msvc2022_64\include\QtCore\QSize:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\QSizeF:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\QString:
-
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\q17memory.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\QString:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\QStringList:
 
@@ -1168,9 +895,9 @@ C:\Qt\6.10.3\msvc2022_64\include\QtCore\QTimer:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\QVector:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\q20iterator.h:
-
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qstringbuilder.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\q20iterator.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qsysinfo.h:
 
@@ -1180,9 +907,11 @@ C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6GuiTargets-debug.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\q20type_traits.h:
 
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QSvgPluginConfig.cmake:
+
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\q23utility.h:
 
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QSvgPluginConfig.cmake:
+C:\texteditor\texteditor\AutoSaveManager.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qabstracteventdispatcher.h:
 
@@ -1190,9 +919,9 @@ C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6GuiTools\Qt6GuiToolsDependencies.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qalloc.h:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qanystringview.h:
-
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qstringtokenizer.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qanystringview.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qarraydata.h:
 
@@ -1202,7 +931,11 @@ C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Core\Qt6CoreConfig.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qassert.h:
 
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qbasictimer.h:
+
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qbytearray.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qbytearraylist.h:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6CoreTools\Qt6CoreToolsTargets.cmake:
 
@@ -1212,9 +945,9 @@ C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Widgets\Qt6QModernWindowsStylePluginTarget
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicExternalProjectHelpers.cmake:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qchar.h:
-
 C:\Qt\6.10.3\msvc2022_64\include\QtGui\qscreen.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qchar.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qcheckedint_impl.h:
 
@@ -1236,9 +969,9 @@ C:\Qt\6.10.3\msvc2022_64\include\QtCore\qconstructormacros.h:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6GuiConfigVersion.cmake:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qcontainerfwd.h:
-
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicCMakeEarlyPolicyHelpers.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qcontainerfwd.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qcontainerinfo.h:
 
@@ -1254,11 +987,11 @@ C:\Qt\6.10.3\msvc2022_64\include\QtCore\qdatastream.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qdebug.h:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qendian.h:
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicSbomHelpers.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qstdlibdetection.h:
 
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicSbomHelpers.cmake:
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qendian.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qeventloop.h:
 
@@ -1270,9 +1003,9 @@ C:\Qt\6.10.3\msvc2022_64\include\QtCore\qfunctionaltools_impl.h:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QJpegPluginTargets-debug.cmake:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qfunctionpointer.h:
-
 C:\Qt\6.10.3\msvc2022_64\include\QtWidgets\QMainWindow:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qfunctionpointer.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qglobal.h:
 
@@ -1280,11 +1013,11 @@ C:\Qt\6.10.3\msvc2022_64\include\QtCore\qglobalstatic.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qhash.h:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qhashfunctions.h:
-
 C:\Qt\6.10.3\msvc2022_64\include\QtGui\qvectornd.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtGui\qtextlayout.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qhashfunctions.h:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicFindPackageHelpers.cmake:
 
@@ -1292,15 +1025,25 @@ C:\Qt\6.10.3\msvc2022_64\include\QtCore\qiodevicebase.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qiterable.h:
 
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qiterator.h:
+
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qlatin1stringview.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qline.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qlist.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qlocale.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtimer.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qlogging.h:
+
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6EntryPointPrivate\Qt6EntryPointPrivateConfig.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtGui\qpolygon.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qmap.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtWidgets\QPlainTextEdit:
 
@@ -1312,41 +1055,53 @@ C:\Qt\6.10.3\msvc2022_64\include\QtGui\qbrush.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qmetacontainer.h:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qmetatype.h:
-
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtversionchecks.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qmetatype.h:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicDependencyHelpers.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qnamespace.h:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtWidgets\qwidget.h:
-
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QOffscreenIntegrationPluginAdditionalTargetInfo.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtWidgets\qwidget.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qnativeinterface.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qobject.h:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qobjectdefs.h:
-
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QWindowsDirect2DIntegrationPluginTargets-debug.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QSvgPluginAdditionalTargetInfo.cmake:
 
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qobjectdefs.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qobjectdefs_impl.h:
+
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicSbomGenerationCycloneDXHelpers.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qpair.h:
+
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qpoint.h:
+
+C:\texteditor\texteditor\FileManager.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qprocessordetection.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qrect.h:
 
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6CoreTools\Qt6CoreToolsTargets-debug.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qrefcount.h:
+
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qregularexpression.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qscopeguard.h:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qset.h:
-
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicSbomPurlHelpers.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qset.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qsettings.h:
 
@@ -1358,9 +1113,9 @@ C:\Qt\6.10.3\msvc2022_64\include\QtCore\qsharedpointer_impl.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qsize.h:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qstring.h:
-
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtclasshelpermacros.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qstring.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qstringconverter.h:
 
@@ -1368,17 +1123,21 @@ C:\texteditor\texteditor\SyntaxHighlighter.cpp:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qstringconverter_base.h:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtGui\qabstracttextdocumentlayout.h:
-
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6GuiTools\Qt6GuiToolsTargets-debug.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtGui\qabstracttextdocumentlayout.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qstringfwd.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qstringlist.h:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtGui\qfontdatabase.h:
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6GuiVersionlessAliasTargets.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qstringmatcher.h:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6EntryPointPrivate\Qt6EntryPointPrivateTargets.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtGui\qfontdatabase.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qstringview.h:
 
@@ -1388,21 +1147,27 @@ C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QSvgPluginTargets.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtaggedpointer.h:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtconfigmacros.h:
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6GuiTools\Qt6GuiToolsTargets-relwithdebinfo.cmake:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtcoreglobal.h:
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtconfigmacros.h:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QWindowsDirect2DIntegrationPluginTargets-relwithdebinfo.cmake:
 
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtcoreglobal.h:
+
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtdeprecationdefinitions.h:
+
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtFeatureCommon.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtdeprecationmarkers.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtenvironmentvariables.h:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\FindWrapVulkanHeaders.cmake:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtextstream.h:
-
 C:\Qt\6.10.3\msvc2022_64\include\QtWidgets\qframe.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtextstream.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtformat_impl.h:
 
@@ -1412,17 +1177,29 @@ C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6GuiTools\Qt6GuiToolsAdditionalTargetInfo.c
 
 C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtnoop.h:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtpreprocessorsupport.h:
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Widgets\Qt6QModernWindowsStylePluginTargets-debug.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicSbomCycloneDXHelpers.cmake:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtversion.h:
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtpreprocessorsupport.h:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtCore\qurl.h:
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qttranslation.h:
+
+.qtcreator\cmake-helper\maintenance_tool_provider.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qttypetraits.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qtversion.h:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6CoreTools\Qt6CoreToolsTargets-relwithdebinfo.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtGui\qtextcursor.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qurl.h:
+
+CMakeFiles\4.3.1\CMakeCXXCompiler.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtCore\qutf8stringview.h:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QTuioTouchPluginTargets.cmake:
 
@@ -1446,19 +1223,27 @@ C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QJpegPluginConfig.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtGui\qbitmap.h:
 
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicSbomBuildToolHelpers.cmake:
-
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QTuioTouchPluginAdditionalTargetInfo.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicSbomBuildToolHelpers.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtGui\qcolor.h:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtGui\qcursor.h:
+C:\Qt\6.10.3\msvc2022_64\include\QtWidgets\qtwidgetsexports.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtGui\qtguiexports.h:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtWidgets\qtwidgetsexports.h:
+C:\Qt\6.10.3\msvc2022_64\include\QtGui\qcursor.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtGui\qevent.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtGui\qeventpoint.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtGui\qfont.h:
+
+C:\texteditor\texteditor\TextEditor.cpp:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtGui\qfontinfo.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtGui\qfontvariableaxis.h:
 
@@ -1466,21 +1251,39 @@ C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Widgets\Qt6QModernWindowsStylePluginTarget
 
 C:\Qt\6.10.3\msvc2022_64\include\QtGui\qglyphrun.h:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtGui\qguiapplication_platform.h:
+C:\texteditor\texteditor\SettingsManager.cpp:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtGui\qicon.h:
+C:\Qt\6.10.3\msvc2022_64\include\QtGui\qguiapplication.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtGui\qguiapplication_platform.h:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QWindowsDirect2DIntegrationPluginConfig.cmake:
 
+C:\Qt\6.10.3\msvc2022_64\include\QtGui\qicon.h:
+
 C:\Qt\6.10.3\msvc2022_64\include\QtGui\qkeysequence.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtGui\qpaintdevice.h:
+
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QICOPluginTargets-relwithdebinfo.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtGui\qpalette.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtGui\qpen.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtGui\qpixelformat.h:
 
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicSbomDocumentNamespaceHelpers.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtGui\qpixmap.h:
+
 C:\Qt\6.10.3\msvc2022_64\include\QtGui\qpointingdevice.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtGui\qrawfont.h:
+
+C:\texteditor\texteditor\SyntaxHighlighter.h:
+
+C:\texteditor\texteditor\SearchManager.cpp:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtGui\qregion.h:
 
@@ -1488,23 +1291,27 @@ C:\Qt\6.10.3\msvc2022_64\include\QtGui\qrgb.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtGui\qsyntaxhighlighter.h:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtGui\qtextdocument.h:
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Widgets\Qt6WidgetsTargets-debug.cmake:
 
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtFeature.cmake:
+C:\Qt\6.10.3\msvc2022_64\include\QtGui\qtextdocument.h:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QTuioTouchPluginTargets-relwithdebinfo.cmake:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtGui\qtextformat.h:
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtFeature.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtGui\qtextobject.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtGui\qtextformat.h:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6GuiTools\Qt6GuiToolsConfig.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtGui\qtextoption.h:
 
-C:\Qt\6.10.3\msvc2022_64\include\QtGui\qtgui-config.h:
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6WidgetsTools\Qt6WidgetsToolsAdditionalTargetInfo.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtWidgets\qtwidgets-config.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtGui\qtgui-config.h:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicAppleHelpers.cmake:
 
@@ -1516,6 +1323,10 @@ C:\Qt\6.10.3\msvc2022_64\include\QtGui\qwindowdefs.h:
 
 C:\Qt\6.10.3\msvc2022_64\include\QtWidgets\qmainwindow.h:
 
+C:\Qt\6.10.3\msvc2022_64\include\QtWidgets\qplaintextedit.h:
+
+C:\Qt\6.10.3\msvc2022_64\include\QtWidgets\qsizepolicy.h:
+
 C:\Qt\6.10.3\msvc2022_64\include\QtWidgets\qtabwidget.h:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\FindWrapAtomic.cmake:
@@ -1523,6 +1334,8 @@ C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\FindWrapAtomic.cmake:
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\Qt6Config.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\Qt6ConfigExtras.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QWindowsIntegrationPluginConfig.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\Qt6ConfigVersion.cmake:
 
@@ -1533,6 +1346,8 @@ C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\Qt6Dependencies.cmake:
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QSvgIconPluginConfig.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\Qt6Targets.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\Qt6VersionlessAliasTargets.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtInstallPaths.cmake:
 
@@ -1548,7 +1363,13 @@ C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicPluginHelpers.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicPluginHelpers_v2.cmake:
 
+C:\texteditor\texteditor\CMakeLists.txt:
+
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicSbomAttributionHelpers.cmake:
+
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicSbomCpeHelpers.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicSbomGenerationHelpers.cmake:
 
 .qtcreator\cmake-helper\package-manager.cmake:
 
@@ -1569,6 +1390,8 @@ C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Core\Qt6CoreTargets-relwithdebinfo.cmake:
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicWalkLibsHelpers.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6\QtPublicWindowsHelpers.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Core\Qt6CoreAdditionalTargetInfo.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QOffscreenIntegrationPluginTargets-relwithdebinfo.cmake:
 
@@ -1592,27 +1415,35 @@ C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QOffscreenIntegrationPluginTargets-
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Core\Qt6CoreTargets.cmake:
 
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6CoreTools\Qt6CoreToolsConfigVersion.cmake:
-
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QICOPluginConfig.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6CoreTools\Qt6CoreToolsConfigVersion.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QMinimalIntegrationPluginAdditionalTargetInfo.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6CoreTools\Qt6CoreToolsConfigVersionImpl.cmake:
 
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6CoreTools\Qt6CoreToolsDependencies.cmake:
+
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6CoreTools\Qt6CoreToolsVersionlessTargets.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6EntryPointPrivate\Qt6EntryPointPrivateConfigVersion.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6EntryPointPrivate\Qt6EntryPointPrivateConfigVersionImpl.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6WidgetsTools\Qt6WidgetsToolsVersionlessTargets.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6EntryPointPrivate\Qt6EntryPointPrivateVersionlessAliasTargets.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6GuiAdditionalTargetInfo.cmake:
 
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6GuiConfig.cmake:
+
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6GuiDependencies.cmake:
 
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6GuiPlugins.cmake:
-
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QMinimalIntegrationPluginConfig.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6GuiPlugins.cmake:
 
 C:\texteditor\texteditor\RecentFilesManager.h:
 
@@ -1621,6 +1452,8 @@ C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6GuiTargets-relwithdebinfo.cmake:
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QGifPluginAdditionalTargetInfo.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QGifPluginConfig.cmake:
+
+C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QGifPluginTargets-debug.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QICOPluginAdditionalTargetInfo.cmake:
 
@@ -1638,6 +1471,8 @@ C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QSvgIconPluginTargets-debug.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QSvgIconPluginTargets-relwithdebinfo.cmake:
 
+C:\texteditor\texteditor\FileManager.cpp:
+
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QSvgIconPluginTargets.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QWindowsDirect2DIntegrationPluginAdditionalTargetInfo.cmake:
@@ -1648,27 +1483,15 @@ C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QTuioTouchPluginConfig.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QWindowsIntegrationPluginAdditionalTargetInfo.cmake:
 
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QWindowsIntegrationPluginConfig.cmake:
-
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QWindowsIntegrationPluginTargets-relwithdebinfo.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Gui\Qt6QWindowsIntegrationPluginTargets.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6GuiTools\Qt6GuiToolsConfigVersion.cmake:
 
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6GuiTools\Qt6GuiToolsTargets-relwithdebinfo.cmake:
-
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6GuiTools\Qt6GuiToolsTargets.cmake:
-
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6GuiTools\Qt6GuiToolsVersionlessTargets.cmake:
-
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6WidgetsTools\Qt6WidgetsToolsTargets.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Widgets\Qt6QModernWindowsStylePluginAdditionalTargetInfo.cmake:
-
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Widgets\Qt6QModernWindowsStylePluginConfig.cmake:
-
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Widgets\Qt6QModernWindowsStylePluginTargets-debug.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Widgets\Qt6WidgetsConfig.cmake:
 
@@ -1678,15 +1501,11 @@ C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Widgets\Qt6WidgetsDependencies.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Widgets\Qt6WidgetsMacros.cmake:
 
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Widgets\Qt6WidgetsTargets-debug.cmake:
-
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Widgets\Qt6WidgetsTargets-relwithdebinfo.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Widgets\Qt6WidgetsTargets.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6Widgets\Qt6WidgetsVersionlessAliasTargets.cmake:
-
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6WidgetsTools\Qt6WidgetsToolsAdditionalTargetInfo.cmake:
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6WidgetsTools\Qt6WidgetsToolsConfig.cmake:
 
@@ -1698,27 +1517,13 @@ C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6WidgetsTools\Qt6WidgetsToolsTargets-debug.
 
 C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6WidgetsTools\Qt6WidgetsToolsTargets-relwithdebinfo.cmake:
 
-C:\Qt\6.10.3\msvc2022_64\lib\cmake\Qt6WidgetsTools\Qt6WidgetsToolsVersionlessTargets.cmake:
-
 C:\texteditor\texteditor\AutoSaveManager.cpp:
-
-C:\texteditor\texteditor\AutoSaveManager.h:
-
-C:\texteditor\texteditor\FileManager.cpp:
-
-C:\texteditor\texteditor\FileManager.h:
 
 C:\texteditor\texteditor\MainWindow.cpp:
 
 C:\texteditor\texteditor\MainWindow.h:
 
 C:\texteditor\texteditor\RecentFilesManager.cpp:
-
-C:\texteditor\texteditor\SyntaxHighlighter.h:
-
-C:\texteditor\texteditor\SearchManager.cpp:
-
-C:\texteditor\texteditor\SettingsManager.cpp:
 
 C:\texteditor\texteditor\TextEditor.h:
 

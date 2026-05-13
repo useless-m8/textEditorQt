@@ -1,0 +1,87 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "C:/texteditor/texteditor/build/Desktop-Debug/_deps/googletest-build/googlemock/gmock_autogen",
+	"CMAKE_BINARY_DIR" : "C:/texteditor/texteditor/build/Desktop-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/texteditor/texteditor/build/Desktop-Debug/_deps/googletest-build/googlemock",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/texteditor/texteditor/build/Desktop-Debug/_deps/googletest-src/googlemock",
+	"CMAKE_EXECUTABLE" : "C:/Program Files/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/texteditor/texteditor/build/Desktop-Debug/_deps/googletest-src/googlemock/CMakeLists.txt",
+		"C:/texteditor/texteditor/build/Desktop-Debug/.qtcreator/cmake-helper/qtcreator-project.cmake",
+		"C:/texteditor/texteditor/build/Desktop-Debug/.qtcreator/cmake-helper/package-manager.cmake",
+		"C:/Program Files/CMake/share/cmake-4.3/Modules/FindThreads.cmake",
+		"C:/Program Files/CMake/share/cmake-4.3/Modules/CheckLibraryExists.cmake",
+		"C:/Program Files/CMake/share/cmake-4.3/Modules/CheckIncludeFile.cmake",
+		"C:/Program Files/CMake/share/cmake-4.3/Modules/CheckCSourceCompiles.cmake",
+		"C:/Program Files/CMake/share/cmake-4.3/Modules/FindPackageHandleStandardArgs.cmake",
+		"C:/Program Files/CMake/share/cmake-4.3/Modules/FindPackageMessage.cmake",
+		"C:/texteditor/texteditor/build/Desktop-Debug/_deps/googletest-src/googlemock/cmake/gmock.pc.in",
+		"C:/texteditor/texteditor/build/Desktop-Debug/_deps/googletest-src/googlemock/cmake/gmock_main.pc.in"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/texteditor/texteditor",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "C:/texteditor/texteditor/build/Desktop-Debug/_deps/googletest-build/googlemock/gmock_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "gmock_autogen/timestamp",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/texteditor/texteditor/build/Desktop-Debug/_deps/googletest-build/googlemock/gmock_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/texteditor/texteditor/build/Desktop-Debug/_deps/googletest-build/googlemock/gmock_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_QML_DEBUG", "WIN32" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/texteditor/texteditor/build/Desktop-Debug/_deps/googletest-src/googlemock/include",
+		"C:/texteditor/texteditor/build/Desktop-Debug/_deps/googletest-src/googlemock",
+		"C:/texteditor/texteditor/build/Desktop-Debug/_deps/googletest-src/googletest/include",
+		"C:/texteditor/texteditor/build/Desktop-Debug/_deps/googletest-src/googletest"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "C:/texteditor/texteditor/build/Desktop-Debug/_deps/googletest-build/googlemock/CMakeFiles/gmock_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/6.10.3/msvc2022_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "C:/Qt/6.10.3/msvc2022_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 10,
+	"SETTINGS_FILE" : "C:/texteditor/texteditor/build/Desktop-Debug/_deps/googletest-build/googlemock/CMakeFiles/gmock_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/texteditor/texteditor/build/Desktop-Debug/_deps/googletest-src/googlemock/src/gmock-all.cc",
+			"MU",
+			null
+		],
+		[
+			"C:/texteditor/texteditor/build/Desktop-Debug/_deps/googletest-src/googletest/src/gtest-all.cc",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

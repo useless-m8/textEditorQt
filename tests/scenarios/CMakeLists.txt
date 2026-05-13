@@ -1,0 +1,12 @@
+add_executable(scenario_file_lifecycle scenario_file_lifecycle.cpp)
+target_link_libraries(scenario_file_lifecycle PRIVATE CodeEditorCoreForTests Qt6::Widgets)
+
+add_executable(scenario_autosave_recovery scenario_autosave_recovery.cpp)
+target_link_libraries(scenario_autosave_recovery PRIVATE CodeEditorCoreForTests Qt6::Widgets)
+
+add_executable(scenario_search_workflow scenario_search_workflow.cpp)
+target_link_libraries(scenario_search_workflow PRIVATE CodeEditorCoreForTests Qt6::Widgets)
+
+add_test(NAME ScenarioFileLifecycle COMMAND scenario_file_lifecycle)
+add_test(NAME ScenarioAutoSaveRecovery COMMAND scenario_autosave_recovery)
+add_test(NAME ScenarioSearchWorkflow COMMAND scenario_search_workflow)

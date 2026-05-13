@@ -1,0 +1,62 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"tests/scenarios/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 10
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "CodeEditorCoreForTests::@a44f0ac069e85531cdee"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "scenario_search_workflow_autogen_timestamp_deps::@9554527838b13284ec26",
+	"isGeneratorProvided" : true,
+	"name" : "scenario_search_workflow_autogen_timestamp_deps",
+	"orderDependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::moc::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::uic::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::Widgets::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "CodeEditorCoreForTests::@a44f0ac069e85531cdee"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "tests/scenarios",
+		"source" : "tests/scenarios"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
